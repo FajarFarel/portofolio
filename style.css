@@ -103,11 +103,11 @@
         line-height: 1;
     }
     .home-img {
-        border-radius: 50%;
+        border-radius: 80%;
     }
     .home-img img {
-        width: 60rem; /* Ubah ukurannya sesuai kebutuhan */
-        height: 60rem; /* Sesuaikan dengan lebar untuk memastikan bulat sempurna */
+        width: 65rem; /* Ubah ukurannya sesuai kebutuhan */
+        height: 70rem; /* Sesuaikan dengan lebar untuk memastikan bulat sempurna */
         border-radius: 50%;
         box-shadow: 0 0 25px var(--main-color);
         cursor: pointer;
