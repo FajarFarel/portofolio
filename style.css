@@ -342,7 +342,12 @@
         width: 50px;
     }
     /* CSS untuk versi mobile */
-    @media only screen and (max-width: 600px) {
+    @media only screen and (max-width: 500px) {
+        .home-img img {
+            width: 100%;
+            height: auto;
+        }
+    
     .timeline-items::before {
         left: 50%;
         transform: translateX(-50%);
